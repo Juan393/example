@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+ <head>
+   <meta charset="UTF-8">
+   <title> MIS RECETAS FAVORITAS</title>
+    </head>
+  <body>
+    <h1> MIS RECETAS FAVORITAS </h1>
+    <nav>
+    <ul>
+      <li><a href="#Sopa paraguaya comida tradicional">Sopa paraguaya </a></li>
+      <li><a href="#Tortillas">Tortillas</a></li>
+      <li><a href="#Chipa guazu"> Chipa guazu</a></li>
+      </ul>
+      </nav>
+      
+    <article id="Sopa paraguaya ">
+    
+    <h2>Sopa paraguaya </h2>
+    <img src="https://img-global.cpcdn.com/comments/2691e0c15877ef00/120x120cq70/photo.jpg" alt= "
+Sopa paraguaya" width=320>
+    <h3> LISTAS DE INGREDIENTES </h3>
+     <ul>
+       <li> 6 a 8 huevos</li>
+        <li>1/2 litro aceite  </li>
+        <li>queso paraguay a gusto </li>
+       <li>1/4 salmuera</li>
+       <li>1 kilos harina de maíz</li>
+       <li>2 cebollas</li>
+      </ul> 
+    
+    <h4><P>Preparación: </P></h4>
+    <ol>
+     
+      <li>Batir la clara de huevos a punto nieve luego se le agrega las yemas se vuele a batir.</li>
+      <li>Calentar el aceite e incorporar las cebollas luego de que estén trasparentes se le agrega la leche. </li>
+      <li>Una vez cocinada la cebolla e incorporar a la harina de maíz agregar el queso y por último el huevo batido y volver a batir. </li>
+      <li>Dejar reposar por unos 30 minutos calentar el horno a 200 grados... Y cocinar </li>
+      <li>Y después a saborear. </li>
+     </ol> 
+       </article>
+    <article id="Tortilla">
+    
+     <h2>Tortilla</h2>
+    <img src="https://img-global.cpcdn.com/comments/07174c5ee3554174/120x120cq70/photo.jpg" alt= "Tortilla"  width=320>
+    <h3> LISTAS DE INGREDIENTES </h3>
+     <ul>
+       <li>4 tazas harina</li>
+        <li>2 huevos</li>
+        <li>2 cucharas cebollita de verdeo</li>
+       <li>250 de agua tibia</li>
+       <li>Queso de preferencia</li>
+       <li>Sal</li>
+       <li>1 bote chico de Aceite</li>   
+      </ul> 
+    
+    <h4><P>Preparación: </P></h4>
+    <ol>
+      <li>En un bote poner la harina y la sal.</li>
+      <li>Luego ir incorporando el huevo y el agua hasta crear una masa espesa </li>
+      <li>Agregar la cebolla de verdeo y trozos de tu queso preferido</li>
+      <li>EEn una sartén con aceite caliente con una cuchara grande ir echando de a poco de 1 a 2 cucharas depende del tamaño que quieras tu tortilla</li>
+      <li>Deja que se frite unos minutitos y dar la vuelta cuando tome un color cafecito</li>
+      <li>Deja que se frite unos minutitos y dar la vuelta cuando tome un color cafecito</li>
+     </ol> 
+      </article>
+    <article id=" Chipa guazu">
+    <h2> Chipa guazu</h2>
+     <img src="https://img-global.cpcdn.com/recipes/033f2d4ce7f7b131/751x532cq70/torta-de-choclo-chipa-guazu-comida-tipica-paraguaya-foto-principal.jpg" alt= "
+ Chipa guazu" width=320>>
+    <h3> LISTAS DE INGREDIENTES </h3>
+     <ul>
+       <li>800 gr choclo (granos)</li>
+        <li>300 gr cebolla picada</li>
+        <li>300 ml aceite de girasol</li>
+        <li>500 gr queso paraguay (puede ser muzzarella o gouda fresca)</li>
+        <li>1 cucharada mediana de sal </li>
+        <li>400 ml leche de vaca (temperatura ambiente o fría)</li>
+        <li>8 huevos enteros </li>
+      </ul> 
+  <h4><P>Preparación: </P></h4>
+    <ol>
+      <li>Freír nuestra cebolla cortadas en cuadritos en los 300ml de aceite de girasol durante 8 minutos.</li>
+      <li>En una licuadora ponemos nuestra leche y el choclo y licuamos hasta que el choclo quede molido.</li>
+      <li>Cortamos nuestro queso a cuadritos y lo ponemos en un plato.</li>
+      <li>Batimos BIEN en un bol grande los 8 huevos (PUEDEN USAR LA BATIDORA)</li>
+      <li>En el bol del huevo añaden la cebolla frita con el aceite, luego el choclo licuado y también el queso y la sal. Batir manualmente (con las manos sin espátula) la mezcla hasta que todo quedé bien mezclado (el huevo, el aceite y todos los ingredientes). Luego en una bandeja ponemos nuestra mezcla y la metemos al horno.</li>
+      <li>Pre calentar el horno a 250° durante 10minutos. Cocinar 50 minutos a 250°</li>
+      <li>Disfrutar caliente o frío es una delicia</li>
+     </ol> 
+      </article>
+    </body>
+  </html>
