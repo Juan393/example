@@ -142,57 +142,69 @@
             <tr>
                 <td>1</td>
                 <td>KTII023</td>
-                <td><a href="https://drive.google.com/file/d/0B4TcW9AB3Knac0ozMThvMlFIWVE/view ">Fisica III </a> </td>
+                <td style="text-align: left; "><a href="https://drive.google.com/file/d/0B4TcW9AB3Knac0ozMThvMlFIWVE/view ">Fisica III </a> </td>
                 <td>OB</td>
                 <td>CB</td>
                 <td>4</td>
                 <td>2</td>
                 <td>2</td>
                 <td>64</td>
-                <td>Fisica II</td>
+                <td style="text-align: left; ">Fisica II</td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>KTII024</td>
-                <td><a href="https://drive.google.com/file/d/0B4TcW9AB3KnaSEZYcnBWVmlwVWs/view ">Probabilidades y Estad&#237;ticas</a></td>
+                <td style="text-align: left; "><a href="https://drive.google.com/file/d/0B4TcW9AB3KnaSEZYcnBWVmlwVWs/view ">Probabilidades y Estad&#237;ticas</a></td>
                 <td>OB</td>
                 <td>CB</td>
                 <td>4</td>
                 <td>2</td>
                 <td>2</td>
                 <td>64</td>
-                <td>Algebra I</td>
+                <td style="text-align: left; ">Algebra I</td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>KTII058</td>
-                <td><a href="https://docs.google.com/document/d/1OHetbFY0-XJSEA0pOk5_sM940CY-ZZVF6S_XyUDy4Zc/edit ">Programacin Web I</a></td>
+                <td style="text-align: left; "><a href="https://docs.google.com/document/d/1OHetbFY0-XJSEA0pOk5_sM940CY-ZZVF6S_XyUDy4Zc/edit ">Programacin Web I</a></td>
                 <td>OB</td>
                 <td>AI</td>
                 <td>4</td>
                 <td>2</td>
                 <td>2</td>
                 <td>64</td>
-                <td>Lenguaje de Programación III; Bases de Datos II</td>
+                <td style="text-align: left; ">Lenguaje de Programación III; Bases de Datos II</td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>KTII058</td>
-                <td><a href="https://drive.google.com/file/d/0B4TcW9AB3KnaRjhELXlnVER2Ukk/view ">Lenguaje de Programación III</a></td>
+                <td style="text-align: left; "><a href="https://drive.google.com/file/d/0B4TcW9AB3KnaRjhELXlnVER2Ukk/view ">Lenguaje de Programación III</a></td>
                 <td>OB</td>
                 <td>AI</td>
                 <td>5</td>
                 <td>3</td>
                 <td>2</td>
                 <td>80</td>
-                <td>Lenguaje de Programación I</td>
+                <td style="text-align: left; ">Lenguaje de Programación I</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>KTII006</td>
+                <td style="text-align: left; "><a href="https://drive.google.com/file/d/0B4TcW9AB3KnaMHVKV0h4V3haUm8/view ">Ge&#243;metria Anal&#237;tica y Vectorial</a></td>
+                <td>OB</td>
+                <td>AI</td>
+                <td>5</td>
+                <td>3</td>
+                <td>2</td>
+                <td>80</td>
+                <td style="text-align: left; ">No tiene</td>
             </tr>
             <tr>
                 <th colspan= "5 ">Total Carga Horaria Semanal y Semestral</th>
-                <th>17</th>
-                <th>9</th>
-                <th>8</th>
-                <th>272</th>
+                <th>22</th>
+                <th>12</th>
+                <th>10</th>
+                <th>352</th>
             </tr>
        </table>
 
