@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style type="text/css">
+        @import url(https://themes.googleusercontent.com/fonts/css?kit=wAPX1HepqA24RkYW1AuHYA);
+        ol {
+            margin: 0;
+            padding: 0
+        }
+        
+        table td,
+        table th {
+            padding: 0
+        }
+        
+        .subtitle {
+            padding-top: 0pt;
+            color: #666666;
+            font-size: 15pt;
+            padding-bottom: 16pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: center
+        }
+        
+        li {
+            color: #000000;
+            font-size: 10pt;
+            font-family: "Arial"
+        }
+        
+        p {
+            margin: 0;
+            color: #000000;
+            font-size: 10pt;
+            font-family: "Arial"
+        }
+        
+        h1 {
+            padding-top: 20pt;
+            color: #000000;
+            font-size: 20pt;
+            padding-bottom: 6pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: center
+        }
+        
+        h2 {
+            padding-top: 18pt;
+            color: #000000;
+            font-size: 16pt;
+            padding-bottom: 6pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: center
+        }
+        
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        
+        td,
+        th {
+            border: 1px solid #000000;
+            text-align: center;
+            padding: 8px;
+        }
+        
+        th {
+            background-color: #dddddd
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <p><span></span></p>
+        <a></a>
+        <a></a>
+        <table>
+            <tbody>
+                <tr>
+                    <td colspan="1 " rowspan="1 ">
+                        <p><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width:
+                    86.01px; height: 86.01px; "><img alt="LogoUnca.jpeg " src="images/image1.jpg " style="width: 86.01px; height: 86.01px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad)
+                    translateZ(0px); " title=" "></span></p>
+                    </td>
+                    <td " colspan="1 " rowspan="1 ">
+                        <p><span>Universidad Nacional de Caaguaz&uacute;</span></p>
+                        <p><span>Sede Coronel Oviedo</span></p>
+                        <p><span>Creada por Ley N&ordm; 3198 del 4 de Mayo de 2007</span></p>
+                        <p><span>FACULTAD DE CIENCIAS Y TECNOLOG&Iacute;AS</span></p>
+                        <p><span><a href="https://www.google.com/url?q=http://www.fctunca.edu.py/&amp;sa=D&amp;ust=1593556381512000&amp;usg=AOvVaw0QRftoBLBjN7W-OpOF8ik6 ">http://www.fctunca.edu.py/</a></span><span>&nbsp; Tel: +595 521 201548 </span>
+                            <span><a href="mailto:infor@fctunca.edu.py ">info@fctunca.edu.py</a></span>
+                        </p>
+                    </td>
+                    <td class="c30 " colspan="1 " rowspan="1 ">
+                        <p><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 89.51px; height:
+                        90.46px; "><img alt="LOGOJPG2017.jpg " src="images/image2.jpg " style="width: 100.57px; height: 90.46px; margin-left: -5.53px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);
+                        " title=" "></span></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><span>MISI&Oacute;N de la FCyT</span><span>: Formar profesionales excelentes con conocimientos cient&iacute;ficos y tecnol&oacute;gicos, competentes, con sentido cr&iacute;tico, &eacute;tico y responsabilidad social.</span></p>
+        <p><span>VISI&Oacute;N &nbsp;de la FCyT</span><span>: Ser una facultad l&iacute;der, con excelencia en la formaci&oacute;n de profesionales que contribuyan al desarrollo del pa&iacute;s.</span></p>
+        <hr>
+   <p><span></span></p>  
+    </header> 
+    <table>
+            <tr>
+                <th colspan="9 ">
+                    <h2>CUARTO CURSO - SEPTIMO SEMESTRE</h2>
+                </th>
+            </tr>
+            <tr>
+                <th>Ord.</th>
+                <th>C&#243;digo</th>
+                <th>Materias</th>
+                <th>Cond.</th>
+                <th>&Agrave;reas</th>
+                <th>C.H.S</th>
+                <th>T.</th>
+                <th>P.</th>
+                <th>T.C.H.S</th>
+                <th>Prerrequisitos</th>
+
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>KTII023</td>
+                <td><a href="https://drive.google.com/file/d/0B4TcW9AB3Knac0ozMThvMlFIWVE/view ">Fisica III </a> </td>
+                <td>OB</td>
+                <td>CB</td>
+                <td>4</td>
+                <td>2</td>
+                <td>2</td>
+                <td>64</td>
+                <td>Fisica II</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>KTII024</td>
+                <td><a href="https://drive.google.com/file/d/0B4TcW9AB3KnaSEZYcnBWVmlwVWs/view ">Probabilidades y Estad&#237;ticas</a></td>
+                <td>OB</td>
+                <td>CB</td>
+                <td>4</td>
+                <td>2</td>
+                <td>2</td>
+                <td>64</td>
+                <td>Algebra I</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>KTII058</td>
+                <td><a href="https://docs.google.com/document/d/1OHetbFY0-XJSEA0pOk5_sM940CY-ZZVF6S_XyUDy4Zc/edit ">Programacin Web I</a></td>
+                <td>OB</td>
+                <td>AI</td>
+                <td>4</td>
+                <td>2</td>
+                <td>2</td>
+                <td>64</td>
+                <td>Lenguaje de Programación III; Bases de Datos II</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>KTII058</td>
+                <td><a href="https://drive.google.com/file/d/0B4TcW9AB3KnaRjhELXlnVER2Ukk/view ">Lenguaje de Programación III</a></td>
+                <td>OB</td>
+                <td>AI</td>
+                <td>5</td>
+                <td>3</td>
+                <td>2</td>
+                <td>80</td>
+                <td>Lenguaje de Programación I</td>
+            </tr>
+            <tr>
+                <th colspan= "5 ">Total Carga Horaria Semanal y Semestral</th>
+                <th>17</th>
+                <th>9</th>
+                <th>8</th>
+                <th>272</th>
+            </tr>
+       </table>
+
+</body>
+
+</html>
